@@ -35,12 +35,15 @@ It uses FRED datasets (`DGS2`, `DGS10`, and `USREC`) to visualize inversion peri
 ```bash
 python projects/bond_recession_analysis/bond_recession_analysis.py
 ```
-🛠️ Installation
+
+## 🛠️ Installation
 
 To install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
-🧩 Dependencies
+## 🧩 Dependencies
 
 pandas
 
@@ -52,12 +55,12 @@ seaborn
 
 scikit-learn
 
-📜 License
+## 📜 License
 
 This repository is licensed under the MIT License.
 You are free to use, modify, and distribute the code with attribution.
 
-👤 Author
+## 👤 Author
 
 Alperen Cem Saygılı
 Quantitative Finance & Algorithmic Trading Research
