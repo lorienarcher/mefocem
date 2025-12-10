@@ -22,7 +22,7 @@ Each project folder includes:
 - Python scripts or Jupyter notebooks  
 - Visualizations or datasets in subfolders  
 - A results or charts directory
-
+```
 ---
 
 ## 🚀 Example Project: Bond Recession Analysis
@@ -34,7 +34,7 @@ It uses FRED datasets (`DGS2`, `DGS10`, and `USREC`) to visualize inversion peri
 **Run:**
 ```bash
 python projects/bond_recession_analysis/bond_recession_analysis.py
-
+```
 🛠️ Installation
 
 To install dependencies:
