@@ -7,11 +7,15 @@ This repository acts as a unified workspace for data-driven research, visualizat
 
 ## 📂 Repository Structure
 
+```bash
 mefocem/
-└── projects/
-├── bond_recession_analysis/
-├── project2_name/
-└── project3_name/
+├── projects/
+│   ├── bond_recession_analysis/
+│   ├── project2_name/
+│   └── project3_name/
+├── LICENSE
+├── README.md
+└── requirements.txt
 
 Each project folder includes:
 - A dedicated `README.md` with a description and methodology  
@@ -28,6 +32,7 @@ Analyze the relationship between the U.S. Treasury yield curve and historical re
 It uses FRED datasets (`DGS2`, `DGS10`, and `USREC`) to visualize inversion periods and post-inversion recessions.
 
 **Run:**
+```bash
 python projects/bond_recession_analysis/bond_recession_analysis.py
 
 🛠️ Installation
